@@ -14,6 +14,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '4.3.1'
+gem 'ffi', '1.9.18'
+gem 'sinatra', '2.0.1'
 
 gem 'apple-app-site-association', '~> 0.1.2'
 
